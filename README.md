@@ -21,7 +21,7 @@ The Webpage can easily access through this link[]
 
 # HomePage
 
-![pic](./assets/images/dash.PNG)
+![pic](./assets/images/2.PNG)
 
 # Features
 
