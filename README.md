@@ -8,7 +8,7 @@ The reason for building this specific project was the need for an application th
 
 The OpenWeather API was used for retrieving the current day's temperature, humidity, wind speed, and uv index. It was also used to display the temperature and humidity for the following 5 days.
 
-The Webpage can easily access through this link[]
+The Webpage can easily access through this link[https://akash2040.github.io/Weather-Dashboard/]
 
 # Table of Content
 
